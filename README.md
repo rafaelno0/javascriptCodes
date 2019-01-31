@@ -1,2 +1,2 @@
 # javascriptCodes
-Repository for useful javscript codes
+Repository for useful javascript codes
